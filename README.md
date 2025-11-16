@@ -1,4 +1,4 @@
-# Purchase Intent Prediction  
+# Customer Purchase Intent Prediction  
 **Author:** Ruthvik Bacha  
 **Program:** MS in Business Analytics & Information Systems, University of South Florida  
 **Duration:** Feb–Apr 2024  
